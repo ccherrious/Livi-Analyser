@@ -1,7 +1,7 @@
 name: Build installers
 
 on:
-  workflow_dispatch:      # lets you press a "Run workflow" button
+  workflow_dispatch:      # Allow you press a "Run workflow" button
   push:
     branches: [main]
 
